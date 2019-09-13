@@ -1,9 +1,5 @@
 /*
- * Pruthvirajsinh Punwar
- * CIS 35A Online Section
- * LAB 2 PART 2
- * 2/1/2019
- * 2/1/2019
+ * @author Pruthvi Punwar
  */
 public class Driver {
 
